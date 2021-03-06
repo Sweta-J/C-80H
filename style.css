@@ -1,0 +1,22 @@
+html, body {
+    width:100%;
+    height:100%;
+}
+#p1s
+{
+    width:49%;
+    float: left;
+}
+#p2s
+{
+    width:49%;
+    float: right;
+}
+#p1
+{
+   display: inline-block;
+}
+#p2
+{
+    display: inline-block;
+}
